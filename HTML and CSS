@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Exam Seating Arrangement</title>
+    </head>
+    <body>
+        <font face="Times new Roman"size="2"align="center">
+    <h1><img src="logo.jpg"width="150px"height="150px"align="left"/><img src="NAAC.jpg"width ="160px"height ="150px"align="right"/>K.C.S. KASI NADAR COLLEGE OF ARTS & SCIENCE<br>Belongs to S.V.H.N.A. Dharma Fund<br>Chennai - 600021<br>www.kcskasinadarcollege.in</h1>
+    </font>
+        <center>
+        <table border="1" >
+    <tr><th colspan="5"><p style="font-size: 25px;">DEPARTMENT OF COMPUTER SCIENCE <br>INTERNAL ASSESSMENT-II<br>Seating allotment 17.03.2025 to 21.03.2025 Timing 9a.m to 12p.m</p></th></tr>
+    </center>
+    </body>
+    <center>
+        <style>
+        table, th, td {
+  border: 1px solid;text-align:center;font-family: "Times new Roman"
+}
+       </style>
+    <tr>
+        <th>S.NO</th>
+        <th>Roll no</th>
+        <th>No. of Student</th>
+        <th>Room no.</th>
+        <th>Class</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>124AFA02 - 124AFA25</td> 
+        <td>24</td> 
+        <td> 11 </td>
+        <td>I BCA (A&F)A</td>
+     </tr>
+     <tr>
+        <td>2</td>
+        <td>123AFA01 - 123AFA24</td>
+        <td>23</td> 
+        <td> 11</td>
+        <td>II BCA (A&F)A</td>
+     </tr>
+     <tr>
+        <td>3</td>
+        <td> 122AFA01 - 122AFA23</td> 
+        <td>23</td> 
+        <td> 11 </td>
+        <td>III BCA (A&F)A</td>
+     </tr>
+     <tr>
+         <td></td>
+         <td></td>
+         <td>70</td>
+         <td></td>
+     </tr>
+     <tr>
+        <th>S.NO</th>
+        <th>Roll no</th>
+        <th>No. of Student</th>
+        <th>Room no.</th>
+        <th>Class</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>124AFA26 - 124AFA50</td> 
+        <td>23</td> 
+        <td> 12 </td>
+        <td>I BCA (A&F)A</td>
+     </tr>
+     <tr>
+        <td>2</td>
+        <td>123AFA25 - 123AFA48</td>
+        <td>23</td> 
+        <td> 12</td>
+        <td>II BCA (A&F)A</td>
+     </tr>
+     <tr>
+        <td>3</td>
+        <td>122AFA24 - 122AFA46 </td> 
+        <td>23</td> 
+        <td> 12 </td>
+        <td>III BCA (A&F)A</td>
+     </tr>
+     <tr>
+         <td></td>
+         <td></td>
+         <td>69</td>
+         <td></td>
+     </tr>
+     <tr>
+        <th>S.NO</th>
+        <th>Roll no</th>
+        <th>No. of Student</th>
+        <th>Room no.</th>
+        <th>Class</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td> 124AFB51 - 124AFB73</td> 
+        <td>23</td> 
+        <td> 13 </td>
+        <td>I BCA (A&F)B</td>
+     </tr>
+     <tr>
+        <td>2</td>
+        <td>123AFB49 - 123AFB71</td>
+        <td>21</td> 
+        <td> 13</td>
+        <td>II BCA (A&F)B</td>
+     </tr>
+     <tr>
+        <td>3</td>
+        <td>123AFB01 - 123AFB02 </td> 
+        <td>02</td> 
+        <td> 13 </td>
+        <td>III BCA (A&F)B</td>
+     </tr>
+     <tr>
+        <td>4</td>
+        <td>122AFA47 - 122AFA71 </td> 
+        <td>24</td> 
+        <td> 13</td>
+        <td>III BCA (A&F)A</td>
+     </tr>
+     <tr>
+         <td></td>
+         <td></td>
+         <td>70</td>
+         <td></td>
+     </tr>
+     <tr>
+        <th>S.NO</th>
+        <th>Roll no</th>
+        <th>No. of Student</th>
+        <th>Room no.</th>
+        <th>Class</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>124AFB01 - 124AFB26</td> 
+        <td>23</td> 
+        <td> 14 </td>
+        <td>I BCA (A&F)B</td>
+     </tr>
+     <tr>
+        <td>2</td>
+        <td>123AFB03 - 123AFB25 </td>
+        <td>23</td> 
+        <td> 14</td>
+        <td>II BCA (A&F)B</td>
+     </tr>
+     <tr>
+        <td>3</td>
+        <td> 122AFB01 - 122AFB22</td> 
+        <td>22</td> 
+        <td> 14</td>
+        <td>III BCA (A&F)B</td>
+     </tr>
+     <tr>
+         <td></td>
+         <td></td>
+         <td>68</td>
+         <td></td>
+     </tr>
+     <tr>
+        <th>S.NO</th>
+        <th>Roll no</th>
+        <th>No. of Student</th>
+        <th>Room no.</th>
+        <th>Class</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>124AFA27 - 124AFA50</td> 
+        <td>23</td> 
+        <td> 15</td>
+        <td>I B.Sc (A&F)A</td>
+     </tr>
+     <tr>
+        <td>2</td>
+        <td>123AFA26 - 123AFA49</td>
+        <td>24</td> 
+        <td> 15</td>
+        <td>II B.Sc(A&F)A</td>
+     </tr>
+     <tr>
+        <td>3</td>
+        <td> 122AFA23 - 122AFA46</td> 
+        <td>22</td> 
+        <td> 15 </td>
+        <td>III B.Sc (A&F)A</td>
+     </tr>
+     <tr>
+         <td></td>
+         <td></td>
+         <td>69</td>
+         <td></td>
+     </tr>
+     <tr>
+        <th>S.NO</th>
+        <th>Roll no</th>
+        <th>No. of Student</th>
+        <th>Room no.</th>
+        <th>Class</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>124AFB51 - 124AFB74</td> 
+        <td>24</td> 
+        <td> 17</td>
+        <td>I B.Sc(A&F)B</td>
+     </tr>
+     <tr>
+        <td>2</td>
+        <td>123AFB50 - 123AFB72</td>
+        <td>23</td> 
+        <td> 17</td>
+        <td>II B.Sc (A&F)B</td>
+     </tr>
+     <tr>
+        <td>3</td>
+        <td>122AFB47 - 122AFB70 </td> 
+        <td>22</td> 
+        <td> 17</td>
+        <td>III B.Sc (A&F)B</td>
+     </tr>
+     <tr>
+         <td></td>
+         <td></td>
+         <td>69</td>
+         <td></td>
+     </tr>
+     </center>
+       
+</html>
+    
+    
+   
+
+    
+
+
